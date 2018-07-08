@@ -11,5 +11,21 @@ button, img{
     margin: 0px;
     border-radius: 100%;
     padding: 0px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
+header{
+    text-align: center;
+    background-color: rgba(243, 243, 243, 0.185);
+    margin: 0px;
+    padding: 0px;
+    display: inline;
+}
+
+h1{
+    margin: 0px 0px 20px 0px;
+}
